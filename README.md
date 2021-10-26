@@ -7,7 +7,8 @@ In these project, I created a "Rock Paper Scissors" game as GUI application usin
 
 •highly interactive and accurate.
 
-**Game GUI**
+
+***Game GUI**
 
 ![](images/Screenshot1.png)
 
